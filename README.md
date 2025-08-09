@@ -20,7 +20,7 @@ Make sure you have Python 3.7+ installed.
 
 Install the required libraries with:
 
-```bash
+
 pip install pillow requests
 
 🔑 Setup
